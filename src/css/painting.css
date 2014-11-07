@@ -2,3 +2,14 @@ body{
 	background: url('../img/game.jpg') top no-repeat fixed #333;
 	background-size: cover; 
 }
+
+#kinetic{
+	background-color: #FFF;
+	border-radius: 5px;
+	width : 1024px;
+	padding : 5px;
+	margin-right: auto;
+	margin-top : 15px;
+	margin-left: auto;
+    
+}
